@@ -39,12 +39,12 @@
   },
   "Slots": {
     "Emojis": [
-      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/0.png",
-      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/1.png",
-      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/2.png",
-      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/3.png",
-      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/4.png",
-      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/5.png"
+      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/0.png", // Butterfly
+      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/1.png", // Heart
+      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/2.png", // Dolphin
+      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/3.png", // Sun
+      "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/emojis/4.png", // Apple
+      "https://imgur.com/IaXaKnn" // Bamboo
     ],
     "Numbers": [
       "https://nadeko-pictures.nyc3.digitaloceanspaces.com/other/slots/numbers/0.png",
