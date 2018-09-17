@@ -1,0 +1,17 @@
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/NUnit3.TestAdapter.dll
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/nunit.engine.netstandard.dll
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/Mono.Cecil.dll
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/NadekoBot.Tests.deps.json
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/NadekoBot.Tests.runtimeconfig.json
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/NadekoBot.Tests.runtimeconfig.dev.json
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/NadekoBot.Tests.dll
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/NadekoBot.Tests.pdb
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/NadekoBot.Core.dll
+/opt/NadekoBot/NadekoBot.Tests/bin/Release/netcoreapp2.1/NadekoBot.Core.pdb
+/opt/NadekoBot/NadekoBot.Tests/obj/Release/netcoreapp2.1/NadekoBot.Tests.csprojAssemblyReference.cache
+/opt/NadekoBot/NadekoBot.Tests/obj/Release/netcoreapp2.1/NadekoBot.Tests.csproj.CoreCompileInputs.cache
+/opt/NadekoBot/NadekoBot.Tests/obj/Release/netcoreapp2.1/NadekoBot.Tests.AssemblyInfoInputs.cache
+/opt/NadekoBot/NadekoBot.Tests/obj/Release/netcoreapp2.1/NadekoBot.Tests.AssemblyInfo.cs
+/opt/NadekoBot/NadekoBot.Tests/obj/Release/netcoreapp2.1/NadekoBot.Tests.csproj.CopyComplete
+/opt/NadekoBot/NadekoBot.Tests/obj/Release/netcoreapp2.1/NadekoBot.Tests.dll
+/opt/NadekoBot/NadekoBot.Tests/obj/Release/netcoreapp2.1/NadekoBot.Tests.pdb

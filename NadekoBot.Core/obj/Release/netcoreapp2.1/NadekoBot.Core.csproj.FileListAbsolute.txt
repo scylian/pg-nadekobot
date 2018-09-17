@@ -1,0 +1,11 @@
+/opt/NadekoBot/NadekoBot.Core/bin/Release/netcoreapp2.1/NadekoBot.Core.deps.json
+/opt/NadekoBot/NadekoBot.Core/bin/Release/netcoreapp2.1/NadekoBot.Core.runtimeconfig.json
+/opt/NadekoBot/NadekoBot.Core/bin/Release/netcoreapp2.1/NadekoBot.Core.runtimeconfig.dev.json
+/opt/NadekoBot/NadekoBot.Core/bin/Release/netcoreapp2.1/NadekoBot.Core.dll
+/opt/NadekoBot/NadekoBot.Core/bin/Release/netcoreapp2.1/NadekoBot.Core.pdb
+/opt/NadekoBot/NadekoBot.Core/obj/Release/netcoreapp2.1/NadekoBot.Core.csprojAssemblyReference.cache
+/opt/NadekoBot/NadekoBot.Core/obj/Release/netcoreapp2.1/NadekoBot.Core.csproj.CoreCompileInputs.cache
+/opt/NadekoBot/NadekoBot.Core/obj/Release/netcoreapp2.1/NadekoBot.Core.AssemblyInfoInputs.cache
+/opt/NadekoBot/NadekoBot.Core/obj/Release/netcoreapp2.1/NadekoBot.Core.AssemblyInfo.cs
+/opt/NadekoBot/NadekoBot.Core/obj/Release/netcoreapp2.1/NadekoBot.Core.dll
+/opt/NadekoBot/NadekoBot.Core/obj/Release/netcoreapp2.1/NadekoBot.Core.pdb
